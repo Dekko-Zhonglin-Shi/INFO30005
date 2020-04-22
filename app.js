@@ -1,6 +1,8 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 
+const test = 1;
+
 const app = express();
 
 require("./models");
